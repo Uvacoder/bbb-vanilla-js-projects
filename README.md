@@ -36,7 +36,7 @@ I made a lot of projects to enhance my javascript skills.
 </li>
 <li>
 <a href="analog_clock">Analog Clock</a><br>
-<a href="https://tush-tr.github.io/vanilla-js-projects/analog_clock/">- Check live</a>
+<a href="https://uvacoder.github.io/vanilla-js-projects/analog_clock/">- Check live</a>
 </li>
 <li>
 <a href="healthifier">Healthifier- Calculate your bmr and tdee</a><br>
