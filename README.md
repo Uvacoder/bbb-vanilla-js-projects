@@ -102,6 +102,11 @@ I made a lot of projects to enhance my javascript skills.
 <a href="https://tush-tr.github.io/vanilla-js-projects/guess-the-number">- Check live</a>
 </li>
 
+<li>
+<a href="english-words">Guess the number</a>
+<br>
+<a href="https://uvacoder.github.io/vanilla-js-projects/english-words">- Check live</a>
+</li>
 
 </ol>
 
