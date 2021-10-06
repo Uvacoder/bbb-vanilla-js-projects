@@ -103,7 +103,7 @@ I made a lot of projects to enhance my javascript skills.
 </li>
 
 <li>
-<a href="english-words">Guess the number</a>
+<a href="english-words">Every english word</a>
 <br>
 <a href="https://uvacoder.github.io/vanilla-js-projects/english-words">- Check live</a>
 </li>
